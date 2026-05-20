@@ -1,0 +1,14 @@
+package basic;
+
+public class StringExample {
+
+	public static void main(String[] args) {
+		
+		String name = "Shubhank";
+		String name1 = new String("Yadav");
+		
+		System.out.println(name+" "+name1);
+
+	}
+
+}
